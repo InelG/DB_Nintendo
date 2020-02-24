@@ -13,5 +13,5 @@ Pour charger la base de donnees dans Neo4j (apres avoir cree un graphe)
 Les donnees etant generees en Cypher dans **db_nintendo.cql**, il n'est pas necessaire de charger le csv. Il est tout de meme present.
 
 
-Bien amicalement!
+Dans le cadre des atelier de première année ESIEE Paris.
 - I.Ghazli, M.Lebon, R.Dreuilhet, et M.Avesta
